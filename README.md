@@ -1,16 +1,2 @@
-# test_task_makeit
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter App - test task for MAKEIT ,the first screen for authentication, after that it will open the 2nd screen where it already shows a list of users,
+used packages: json_annotation,dio,flutter_bloc,intl,build_runner,json_serializable.
